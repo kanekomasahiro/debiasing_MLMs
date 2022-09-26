@@ -1,7 +1,7 @@
 # debiasing_MLMs
 
-You can use debiasing methods in ``[Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks (Kaneko et al., COLING2022)](https://arxiv.org/abs/2205.09867)''
-You can debias MLMs with Counterfactual Data Augmentation (CDA) debiasing and dropout debiasing　as in this repository.
+You can use debiasing methods in "[Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks (Kaneko et al., COLING2022)](https://arxiv.org/abs/2205.09867)"
+You can debias MLMs with Counterfactual Data Augmentation (CDA) debiasing and dropout debiasing as in this repository.
 You can also use Alllayer Token-level debiasing in [this repository](https://github.com/kanekomasahiro/context-debias).
 
 # Setup
