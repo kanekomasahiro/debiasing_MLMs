@@ -11,6 +11,7 @@ All requirements can be found in requirements.txt. You can install all required 
 ```
 pip install -r requirements.txt
 ```
+Moreover, you need git clone of [transformers](https://github.com/huggingface/transformers) library in transformers directory.
 
 # Debiasing MLMs
 
